@@ -61,7 +61,7 @@ added: v0.6.12
 Every `.html` document has a corresponding `.json` document. This is for IDEs
 and other utilities that consume the documentation.
 
-## System calls and man pages
+## System calls and man pages ##
 
 Node.js functions which wrap a system call will document that. The docs link
 to the corresponding man pages which describe how the system call works.
